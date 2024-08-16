@@ -1,0 +1,66 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Grey+Qo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grey+Qo&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* variables */
+:root{
+    /* fonts */
+    --font-Grey-Qo: "Grey Qo", cursive;
+    --font-Noto-Sans: "Noto Sans", sans-serif;
+
+    /* colors */
+    --white: #fff;
+    --color-primary: #231c2f;
+    --color-secondary: #26242a;
+    --color-line-purple: #635979;
+}
+
+/* formatting styles */
+html{
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+*,
+*:before,
+*:after{
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    overflow-x: hidden;
+    background-color: var(--color-secondary);
+    font-family: var(--font-Noto-Sans);
+}
+
+hr{
+    border: thin solid var(--color-line-purple);
+    width: 80%;
+}
+
+
+.greetingContainer{
+    margin: auto;
+    display: flex;
+    width: 80vw;
+    padding: 2rem;
+    align-items: center;
+}
+
+.authorImg{
+    border-radius: 50%;
+    width: 15%;
+    height: auto;
+    border: 5px solid var(--color-line-purple);
+    box-shadow: 0 0 10px 2px var(--color-line-purple);
+}
+
+.greetingTextcontainer{
+    margin: auto;
+}
+
+.greeting{
+    color: var(--white);
+}
