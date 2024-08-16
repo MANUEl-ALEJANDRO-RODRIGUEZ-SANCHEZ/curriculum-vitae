@@ -6,7 +6,7 @@
 
 ## 📝 Descripción
 
-Este repositorio contiene todos los archivos necesarios para visualizar mi **Curriculum Vitae** interactivo. Es un proyecto en el que he trabajado con tecnologías web esenciales para mostrar mis habilidades, experiencia y conocimientos de manera dinámica y atractiva, utilizando la estrategia de una SPA.
+Este repositorio contiene todos los archivos necesarios para visualizar mi **Curriculum Vitae** interactivo. Es un proyecto en el que he trabajado con tecnologías web esenciales para mostrar mis habilidades, experiencia y conocimientos de manera dinámica y atractiva.
 
 - **HTML**: La estructura y contenido del currículum.
 - **CSS**: El diseño y estilo para hacerlo visualmente atractivo.
@@ -23,6 +23,7 @@ Este proyecto nació de mi deseo de combinar diseño y tecnología para presenta
 - **Diseño Responsivo**: Adaptable a cualquier dispositivo, desde móviles hasta monitores grandes.
 - **Interactividad**: Animaciones y efectos que hacen la navegación más interesante.
 - **Código Limpio y Comentado**: Fácil de entender y mantener.
+- **SPA**: Estructura trabajada en el proyecto.
 
 ---
 
