@@ -14,16 +14,3 @@ Este repositorio contiene todos los archivos necesarios para visualizar mi **Cur
 
 ---
 
-## 📂 Estructura del Proyecto
-
-```plaintext
-📦Mi-Curriculum-Digital
- ┣ 📂assets
- ┃ ┣ 📂css
- ┃ ┃ ┗ 📜styles.css
- ┃ ┣ 📂js
- ┃ ┃ ┗ 📜scripts.js
- ┃ ┗ 📂images
- ┃   ┗ 📜profile.jpg
- ┣ 📜index.html
- ┗ 📜README.md
