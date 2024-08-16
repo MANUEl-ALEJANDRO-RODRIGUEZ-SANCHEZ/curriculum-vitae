@@ -14,3 +14,19 @@ Este repositorio contiene todos los archivos necesarios para visualizar mi **Cur
 
 ---
 
+## 🌟 Características Principales
+
+- **Diseño Responsivo**: Adaptable a cualquier dispositivo, desde móviles hasta monitores grandes.
+- **Interactividad**: Animaciones y efectos que hacen la navegación más interesante.
+- **Código Limpio y Comentado**: Fácil de entender y mantener.
+
+## 📧 Contacto
+
+¿Tienes alguna pregunta o simplemente quieres conectar? Puedes encontrarme en:
+
+- [Instagram](https://instagram.com/kobra_gloryg)
+- [Correo Electrónico](mailto:manuel.rodriguez9120@alumnos.udg.mx)
+
+---
+
+⭐️ **No olvides darle una estrella al repositorio si te ha gustado!** ⭐️
