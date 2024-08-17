@@ -1,5 +1,6 @@
 import Greeting from "./components/Greeting.js";
 import Menu from "./components/Menu.js";
+import ToCV from "./components/ToCV.js";
 import { observeMenuLinks } from "./helpers/isActiveNavLink.js";
 
 
@@ -11,6 +12,7 @@ export function App(){
     $root.appendChild(Menu());
     $root.appendChild(Greeting());
     $root.appendChild($hr);
+    $root.appendChild(ToCV());
 
 
 

@@ -1,0 +1,27 @@
+.greetingContainer{
+    margin: 5rem auto 0;
+    display: flex;
+    width: 80vw;
+    padding: 2rem;
+    align-items: center;
+
+    /* background-color: var(--color-gray-dark); */
+    border-radius: 20px;
+}
+
+.authorImg{
+    border-radius: 50%;
+    width: 15%;
+    height: auto;
+    border: 5px solid var(--color-line-purple);
+    box-shadow: 0 0 10px 2px var(--color-line-purple);
+    margin: auto;
+}
+
+.greetingTextcontainer{
+    margin: auto;
+}
+
+.greeting{
+    color: var(--white);
+}

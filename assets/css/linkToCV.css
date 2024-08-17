@@ -1,0 +1,40 @@
+.linkToCVContainer{
+    width: fit-content;
+    margin: auto;
+}
+
+.linkToCV{
+    background-color: var(--color-primary);
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    padding: 1rem;
+    position: relative;
+    top: -40px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+    transition: all 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    animation: scale 1s infinite;
+}
+
+.linkToCV:hover{
+    color: var(--color-primary);
+    background-color: white;
+}
+
+@keyframes scale {
+    0% {
+        transform: scale(1);
+    }
+
+    50%{
+        transform: scale(1.05);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
