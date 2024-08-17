@@ -5,7 +5,7 @@ export default function ToCV(){
     $linkToCVContainer.classList.add("linkToCVContainer");
     $link.href = "cv.html";
     $link.classList.add("linkToCV");
-    $link.textContent = "Click to see the resume";
+    $link.textContent = "Click to see the CV";
 
     $linkToCVContainer.appendChild($link);
 
