@@ -191,10 +191,6 @@ main{
     padding: 5rem;
 }
 
-.aboutMe{
-
-}
-
 .aboutMe h2{
     font-size: 2rem;
     margin-bottom: 2rem;
@@ -210,3 +206,48 @@ main{
     font-size: 20px;
     text-align: justify;
 }
+
+.synthesis b{
+    font-size: 25px;
+}
+
+.competencies{
+    display: flex;
+    font-size: 20px;
+    text-align: justify;
+    gap: 4rem;
+}
+
+.experience h2{
+    margin-bottom: 1rem;
+}
+
+.experience p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.experience p ul li{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.experience ul li {
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 2rem;
+}
+
+
+.languages, .personalReferences{
+    margin: 2rem 0;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.languages ul li, .personalReferences ul li{
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 2rem;
+}
+
