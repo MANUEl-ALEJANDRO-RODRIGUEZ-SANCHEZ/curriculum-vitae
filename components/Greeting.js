@@ -2,6 +2,7 @@ export default function Greeting(){
     const d = document,
         $greetinContainer = d.createElement("div");
 
+    $greetinContainer.id = "home";
     $greetinContainer.classList.add("greetingContainer");
     $greetinContainer.innerHTML = `
         <img src="assets/images/manuel.jpg" alt="Manuel Rodriguez" class="authorImg"/>

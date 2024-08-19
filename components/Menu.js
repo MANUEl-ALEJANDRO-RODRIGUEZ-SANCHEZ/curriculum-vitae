@@ -6,7 +6,7 @@ export default function Menu(){
         <div>
             <a href="#home" class="navLink isActiveNavLink">Home</a>
             <a href="#technologies" class="navLink">Technologies</a>
-            <a href="#projects" class="navLink">Projects</a>
+            <a href="#sxperience" class="navLink">Experience</a>
             <a href="#contact" class="navLink">Contact</a>
         </div>
     `;

@@ -1,0 +1,17 @@
+.experience{
+    width: 60vw;
+    margin: auto;
+    background-color: mediumpurple;
+    padding: 2rem;
+    border-radius: 0 3rem;
+}
+
+.experience > *{
+    color: var(--white);
+    text-align: justify;
+    font-size: 1.2rem;
+}
+
+.experience h2{
+    font-size: 2rem;
+}

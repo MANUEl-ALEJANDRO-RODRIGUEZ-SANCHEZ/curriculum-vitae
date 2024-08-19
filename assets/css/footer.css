@@ -1,0 +1,9 @@
+.footer{
+    width: 100vw;
+    background-color: var(--color-primary);
+    padding: .75rem;
+}
+
+.footer p{
+    color: var(--white);
+}

@@ -1,0 +1,23 @@
+.contact{
+    width: 60vw;
+    margin: 4rem auto;
+}
+
+.contact > *{
+    color: var(--white);
+    font-size: 1.2rem;
+}
+
+.contact h2{
+    font-size: 2rem;
+}
+
+.contact ul li{
+    margin: 1rem 0;
+    list-style: none;
+}
+
+.contact ul li a{
+    text-decoration: none;
+    color: var(--white);
+}

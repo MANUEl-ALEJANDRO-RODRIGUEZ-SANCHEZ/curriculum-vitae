@@ -7,6 +7,11 @@
 @import url('starts.css');
 @import url('greeting.css');
 @import url('linkToCV.css');
+@import url('aboutMe.css');
+@import url('technologies.css');
+@import url('experience.css');
+@import url('contact.css');
+@import url('footer.css');
 
 /* variables */
 :root{
